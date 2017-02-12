@@ -1,1 +1,1 @@
-# C-code
+# These programs were written to run on Codeblock for C++
